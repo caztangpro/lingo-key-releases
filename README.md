@@ -1,6 +1,6 @@
 # LingoKey Releases
 
-Download links for the [LingoKey](https://lingokey.caztang.com) desktop app.
+Download links for the [LingoKey](https://landing-lingo-key.caztang.com) desktop app.
 
 ## Download
 
