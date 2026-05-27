@@ -1,6 +1,6 @@
 # LingoKey Releases
 
-Download links for [LingoKey](https://lingokey.caztang.com) — a desktop assistant for developers who polish prompts, explain unfamiliar English, and turn useful expressions into flashcards while working with AI coding tools.
+Download links for [LingoKey](https://landing-lingo-key.caztang.com) — a desktop assistant for developers who polish prompts, explain unfamiliar English, and turn useful expressions into flashcards while working with AI coding tools.
 
 ## Try Online
 
